@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394804993865",
+    "firebase_url": "https://clothes-shop-b6098.firebaseio.com",
+    "project_id": "clothes-shop-b6098",
+    "storage_bucket": "clothes-shop-b6098.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394804993865:android:74c1695892e7bbaefd4498",
+        "android_client_info": {
+          "package_name": "git.irrizka.flutter_clothes_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394804993865-aukcl27jbq7vi4te5i0blb42m8i6be6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaNqcHOp_9cwysUsLenf3AMbIXGUh4RQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394804993865-aukcl27jbq7vi4te5i0blb42m8i6be6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
