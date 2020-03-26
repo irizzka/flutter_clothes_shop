@@ -25,6 +25,10 @@ dependencies:
   cupertino_icons: ^0.1.2
   cloud_firestore: ^0.13.4+2
   firebase_core: ^0.4.4+3
+  google_sign_in: ^4.2.0
+  firebase_auth: ^0.15.5+3
+  # fonts
+  google_fonts: ^0.3.10
 
 dev_dependencies:
   flutter_test:

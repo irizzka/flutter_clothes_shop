@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_clothes_shop/screens/home_screen.dart';
+
+import 'auth/sceens/sign_in_screen.dart';
 
 void main() => runApp(MyApp());
 
@@ -11,8 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HomeScreen(),
+      home: SignInScreen(),
     );
   }
 }
-

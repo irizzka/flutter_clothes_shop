@@ -8,7 +8,13 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       body: RaisedButton(
         onPressed: () {
-          _firestore.collection('clothes-man/man-teenager/jeans').add({
+          _firestore
+              .collection('clothes-man')
+              .document('vrfnIkPBuLsFem1t64C5')
+              .collection('man-teenager')
+              .document('R0QVGJOEx4hOZ5j2DcSx')
+              .collection('jeans')
+              .add({
             'description': 'description2',
             'imageUrl': "non",
             'name': 'new name',
